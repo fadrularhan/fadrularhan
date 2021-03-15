@@ -1,4 +1,8 @@
 <?php
+
+// Nama : Fadrul Arhan
+// NIM : 12191661
+
 // array 
 $ikanku = ["Teri","Lele","Bawal","Tuna"];
 
